@@ -1,0 +1,11 @@
+com\test\contactsbd\ws\controller\ContactsController.class
+com\test\contactsbd\ws\client\ContactClient.class
+com\test\contactsbd\ws\dao\LL_ContactDAO$ContactMapper.class
+com\test\contactsbd\ws\dao\LL_EstadoscontactDAO.class
+com\test\contactsbd\ws\dao\LL_EstadoscontactDAO$EstadoMapper.class
+com\test\contactsbd\ws\config\AppConfig.class
+com\test\contactsbd\ws\dao\LL_ContactDAO.class
+com\test\contactsbd\ws\model\LL_Estadoscontact.class
+com\test\contactsbd\ws\model\LL_Contact.class
+com\test\contactsbd\ws\client\EstadoClient.class
+com\test\contactsbd\ws\dao\Dao.class
